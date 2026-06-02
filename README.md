@@ -21,5 +21,5 @@ Customer Support Tickets Dataset
 - Confusion Matrix Visualization
 
 ## Results
-Ticket Type Accuracy: 19.6%
+Ticket Type Accuracy: 21.84%
 Priority Accuracy: 25.8%
